@@ -1,0 +1,8 @@
+D:\Users\Tim\Desktop\Prüfungsvorbereitung\Grundlagen der Informatik II\Objektorientierte Programmierung\Code\Code\bin\Debug\Code.exe.config
+D:\Users\Tim\Desktop\Prüfungsvorbereitung\Grundlagen der Informatik II\Objektorientierte Programmierung\Code\Code\bin\Debug\Code.exe
+D:\Users\Tim\Desktop\Prüfungsvorbereitung\Grundlagen der Informatik II\Objektorientierte Programmierung\Code\Code\bin\Debug\Code.pdb
+D:\Users\Tim\Desktop\Prüfungsvorbereitung\Grundlagen der Informatik II\Objektorientierte Programmierung\Code\Code\obj\Debug\Code.csproj.AssemblyReference.cache
+D:\Users\Tim\Desktop\Prüfungsvorbereitung\Grundlagen der Informatik II\Objektorientierte Programmierung\Code\Code\obj\Debug\Code.csproj.SuggestedBindingRedirects.cache
+D:\Users\Tim\Desktop\Prüfungsvorbereitung\Grundlagen der Informatik II\Objektorientierte Programmierung\Code\Code\obj\Debug\Code.csproj.CoreCompileInputs.cache
+D:\Users\Tim\Desktop\Prüfungsvorbereitung\Grundlagen der Informatik II\Objektorientierte Programmierung\Code\Code\obj\Debug\Code.exe
+D:\Users\Tim\Desktop\Prüfungsvorbereitung\Grundlagen der Informatik II\Objektorientierte Programmierung\Code\Code\obj\Debug\Code.pdb
